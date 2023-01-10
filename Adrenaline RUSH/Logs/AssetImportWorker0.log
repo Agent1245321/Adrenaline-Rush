@@ -1,0 +1,189 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.37f1 (8c66806a0c04) revision 9201280'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'en' Physical Memory: 65165 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.37f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/luke.smith/Documents/GitHub/Adrenaline-Rush/Adrenaline RUSH
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56788
+Successfully changed project path to: C:/Users/luke.smith/Documents/GitHub/Adrenaline-Rush/Adrenaline RUSH
+C:/Users/luke.smith/Documents/GitHub/Adrenaline-Rush/Adrenaline RUSH
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 81.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.37f1 (8c66806a0c04)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/luke.smith/Documents/GitHub/Adrenaline-Rush/Adrenaline RUSH/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro RTX 5000 (ID=0x1eb5)
+    Vendor:   
+    VRAM:     16170 MB
+    Driver:   30.0.15.1236
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.171062 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.178 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3178ms)
+		BeginReloadAssembly (2243ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (620ms)
+			LoadAssemblies (2246ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (369ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (132ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (32ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (64ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.398608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.615 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3619ms)
+		BeginReloadAssembly (122ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (3446ms)
+			LoadAssemblies (1643ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (701ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (1001ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (328ms)
+				ProcessInitializeOnLoadMethodAttributes (604ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 2.240200 ms (FindLiveObjects: 0.131400 ms CreateObjectMapping: 0.061200 ms MarkObjects: 1.962700 ms  DeleteObjects: 0.084300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Animations
+  artifactKey: Guid(9139a324168502743a058ccd24354d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(9139a324168502743a058ccd24354d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19001334f7db341a5c151e563bb77aaa') in 0.007261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.745372 seconds.
+  path: Assets/Animations/Luke
+  artifactKey: Guid(22a362c839c526549b25b0071d1fbe16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke using Guid(22a362c839c526549b25b0071d1fbe16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b69a4033490789f0a2e4d13fa2001562') in 0.004935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1319.221270 seconds.
+  path: Assets/Animations/Luke/Climbing Ladder.fbx
+  artifactKey: Guid(527a0c6dfe6bb08498e519fb7813a175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke/Climbing Ladder.fbx using Guid(527a0c6dfe6bb08498e519fb7813a175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0f7c0421b7fc7b915aa85f0ef412bb') in 0.507467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Animations/Luke/Sprinting Forward Roll.fbx
+  artifactKey: Guid(551b0f76653bfec4494227d0ec757c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke/Sprinting Forward Roll.fbx using Guid(551b0f76653bfec4494227d0ec757c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41daa3ace57c1b3c2ef0aaec2466af66') in 0.050061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Animations/Luke/Jumping.fbx
+  artifactKey: Guid(0a4d40ba5c2a81a4d8d2939be34ce195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke/Jumping.fbx using Guid(0a4d40ba5c2a81a4d8d2939be34ce195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5deb0c941700b18d79ece81736e1a14b') in 0.051484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Animations/Luke/Fall Flat.fbx
+  artifactKey: Guid(2fd246c5f1d12294da13d5d77b3bf550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke/Fall Flat.fbx using Guid(2fd246c5f1d12294da13d5d77b3bf550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47947a1706858888f24b50ac0077f9d2') in 0.050099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Animations/Luke/Running Slide.fbx
+  artifactKey: Guid(a7b426e8a8dbef64f9f8edaef3f66ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke/Running Slide.fbx using Guid(a7b426e8a8dbef64f9f8edaef3f66ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4db5cf2e9e82f5cdf4a031083544d1f') in 0.056770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Animations/Luke/Swing To Land.fbx
+  artifactKey: Guid(eaf4a96ee6b4ef647b6e898a1d885fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke/Swing To Land.fbx using Guid(eaf4a96ee6b4ef647b6e898a1d885fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac87cc6259fbb4f5cdfa29f80171a3a') in 0.047902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Animations/Luke/Run To Rolling.fbx
+  artifactKey: Guid(9a787bff5aa60974091f91202058c99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Luke/Run To Rolling.fbx using Guid(9a787bff5aa60974091f91202058c99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662dc3f71f0494d526b4f79a33b62aad') in 0.042328 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
