@@ -36,14 +36,16 @@ public class ProBuilderAPI : MonoBehaviour
         {
             if (window.IsQuad() == true)
             {
-                window.indexes.CopyTo(tempQuad, 3);
+                window.indexes.CopyTo(tempQuad, window.indexes.Count);
                 Debug.Log(tempQuad[0]);
                 Debug.Log(tempQuad[1]);
                 Debug.Log(tempQuad[2]);
                 Debug.Log(tempQuad[3]);
 
-                new Face[] { new Face( new int[] {tempQuad})
-                
+
+                new Face(new int[] { tempQuad[0], tempQuad[1], tempQuad[2], tempQuad[1], tempQuad[3], tempQuad[2] });
+
+
 
                 if (tempQuad[0] < tempQuad[2])
                 {
